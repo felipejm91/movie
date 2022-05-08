@@ -15,3 +15,10 @@ Esse projeto trabalha com uma base de dados MongoDB e
 Exemplo:
 
 MONGODB_URI: mongodb://mongouser:mongopwd@localhost:27017/admin
+
+
+-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=
+
+CRIAÇÃO DO DOCKERFILE
+
+Foi criado o documento "Dockerfile" para criação da imagem da aplicação e posterior utilização no ambiente da aplicação rotten-potatoes-ms
